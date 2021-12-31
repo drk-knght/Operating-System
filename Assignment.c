@@ -1,12 +1,3 @@
-/*
-Samarth Soni                2019A7PS1274H
-Aditya Pratap Singh Tomar   2019A7PS0127H
-Gaurvit Kumar               2019A7PS1278H
-Ojashvi Tarunabh            2019A7PS0025H
-Om Agarwal                  2019A7PS0052H
-Bharadwaz Rushi Dabbiru     2019A7PS0111H
-Saransh Dwivedi             2019A7PS0173H
-*/
 #include <stdbool.h>
 #include<stdio.h>
 #include<string.h>
