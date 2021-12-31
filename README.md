@@ -35,4 +35,4 @@ In M, the scheduling algorithms FCFS and Round Robin (RR) with a fixed time quan
 
 • The monitor thread should remain awake in order to monitor communications from M. The frequency at the which the monitor thread checks for communication from M is 100Mhz.
 
-• The choice of the scheduling algorithm will be given as user input. n1, n2 and n3 constitute the process workload and are also given as user inputs. You should be able to repeat for different sizes of workload for performance analysis. The values of n1, n2 and n3 will range between 25 and one million.
+• The choice of the scheduling algorithm will be given as user input. n1, n2 and n3 constitute the process workload and are also given as user inputs. The values of n1, n2 and n3 will range between 25 and one million.
